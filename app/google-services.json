@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "946458246688",
+    "project_id": "quizflower-890cd",
+    "storage_bucket": "quizflower-890cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946458246688:android:5636cc9af6942d90784645",
+        "android_client_info": {
+          "package_name": "com.moon.quizflower"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946458246688-j79uv0mh4rpk00fm9gaa83k0i9tu2rja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moon.quizflower",
+            "certificate_hash": "ab2e547f57cbb4215b27ee18d118f08d3779f506"
+          }
+        },
+        {
+          "client_id": "946458246688-r90c5kei3sstokf9ndh23ataaufspbr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDywuguLjVkr4Ku9TrZvbArHEl-_RToG2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946458246688-r90c5kei3sstokf9ndh23ataaufspbr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
